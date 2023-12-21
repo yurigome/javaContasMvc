@@ -1,0 +1,12 @@
+# Arquivos de compilação
+target/
+
+# Logs
+logs/
+
+# Arquivos temporários
+*.log
+*.swp
+
+# Arquivos de dependências baixadas pelo Maven
+/.m2/

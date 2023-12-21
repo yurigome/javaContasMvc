@@ -1,0 +1,19 @@
+	/* mensagens de erro */
+	label.error {
+		color: red;
+	}
+
+	/* campo de texto */
+	input.error {
+		border: 2px solid red;
+	}
+
+	/* campo de seleção */
+	select.error {
+		border: 2px solid red;
+	}
+
+	/* campo de area de texto */
+	textarea.error {
+		border: 2px solid red;
+	}
